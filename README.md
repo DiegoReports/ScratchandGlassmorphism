@@ -5,7 +5,7 @@ Pagina Responsiva com efeito Scratch e técnica de Glassmorphism. Efeito Blur de
 <img src="https://img.shields.io/badge/Coding-CSS3-blue"></p>
 
 ## DESKTOP 🖥️
-<p align=center><img src="img/aqua.png"></p>
+<p align=center><img src="img/Aqua.png"></p>
 
 ---
 ## MOBILE 📲
