@@ -159,6 +159,16 @@ section .sci li {
      transition-delay: calc(0.2s * var(--i));
 }
 
+section .sci li:hover {
+    background: #111;
+    transition: 0.5s;
+}
+
+section .sci li a:hover {
+    color: #fff;
+    transition: 0.5s;
+}
+
 section.active .sci li {
     opacity: 0;
     visibility: hidden;
